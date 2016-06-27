@@ -1,0 +1,11 @@
+td, body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt;}
+.small {font-size: 8pt;}
+.normal {font-size: 9pt;}
+.left {text-align: left;font-size: 9pt;}
+.title {font-weight: bold; color: #9A1314;font-size:120%;}
+.title2{font-size:120%;}
+.bodytext{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt;}
+
+p {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;
+line-height: 0.5cm;
+}
